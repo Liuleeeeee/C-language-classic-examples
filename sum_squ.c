@@ -8,5 +8,5 @@ int main(void)
     squ=toes*toes;
     printf("toes=%d;\nsum=%d;\nsqu=%d.\n",toes,sum,squ);
     getch();
-    return();
+    return0;
 }

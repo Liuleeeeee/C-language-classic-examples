@@ -1,4 +1,4 @@
-/* sum_squ */
+/* sum_squ.c */
 #include <stdio.h>
 int main(void)
 {
